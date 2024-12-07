@@ -41,7 +41,7 @@ The analysis evaluates HelloFresh's compliance with the **13 APPs**:
 | APP 7          | Partial                                      | Limited opt-out options for direct marketing  | Centralize direct marketing opt-out mechanisms.       |
 | APP 8          | Non-Compliant                               | Lack of cross-border privacy safeguards       | Ensure foreign entities comply with Australian APPs.  |
 
-For the full analysis, refer to the detailed [Privacy Impact Assessment report](./PIA.pdf).
+
 
 ---
 
